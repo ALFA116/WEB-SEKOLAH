@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<!--
+Template Name: Academic Education V2
+Author: <a href="http://www.os-templates.com/">OS Templates</a>
+Author URI: http://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: http://www.os-templates.com/template-terms
+-->
+<html>
+
+<head>
+  <title>SMKN 64 JAKARTA TIMUR</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link href="../layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+</head>
+
+<body id="top">
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <div class="wrapper row0">
+    <div id="topbar" class="clear">
+      <!-- ################################################################################################ -->
+      <nav>
+        <ul>
+          <li><a href="#">BERANDA</a></li>
+          <li><a href="#">KONTAK KAMI</a></li>
+          <li><a href="#">A - Z Indeks</a></li>
+          <li><a href="#">LOGIN SISWA</a></li>
+          <li><a href="#">LOGIN STAFF</a></li>
+        </ul>
+      </nav>
+      <!-- ################################################################################################ -->
+    </div>
+  </div>
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <div class="wrapper row1">
+    <header id="header" class="clear">
+      <!-- ################################################################################################ -->
+      <div id="logo" class="fl_left">
+        <h1><a href="../index.html">SMKN 64 JAKARTA</a></h1>
+        <p>TEMPLETE WEBSITE SEKOLAH</p>
+      </div>
+      <div class="fl_right">
+        <form class="clear" method="post" action="#">
+          <fieldset>
+            <legend>Search:</legend>
+            <input type="text" value="" placeholder="Search Here">
+            <button class="fa fa-search" type="submit" title="Search"><em>PENCARIAN</em></button>
+          </fieldset>
+        </form>
+      </div>
+      <!-- ################################################################################################ -->
+    </header>
+  </div>
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <div class="wrapper row2">
+    <div class="rounded">
+      <nav id="mainav" class="clear">
+        <!-- ################################################################################################ -->
+        <ul class="clear">
+          <li class="active"><a href="../index.html">BERANDA</a></li>
+          <li><a href="pages/portfolio.html">PROFIL</a></li>
+          <li><a href="pages/portfolio.html">VISI DAN MISI</a></li>
+          <li><a href="pages/portfolio.html">INFORMASI SEKOLAH</a></li>
+          <li><a href="pages/portfolio.html">GURU DAN TU</a></li>
+          <li><a class="drop" href="#">E-PERPUSTAKAAN</a>
+            <ul>
+              <li><a href="pages/gallery.html">BUKU PELAJARAN</a></li>
+              <li><a href="pages/portfolio.html">BUKU FIKSI</a></li>
+              <li><a href="pages/full-width.html">CERPEN</a></li>
+              <li><a href="pages/sidebar-left.html">CERITA RAKYAT</a></li>
+              <li><a href="pages/sidebar-left-2.html">POJOK KISAH</a></li>
+              <li><a href="pages/sidebar-right.html">TEPIAN SAJAK</a></li>
+            </ul>
+          </li>
+          <li><a class="drop" href="#">KATEGORI</a>
+            <ul>
+              <li><a href="pages/gallery.html">PKL</a></li>
+              <li><a href="pages/portfolio.html">KOPI 64</a></li>
+            </ul>
+          </li>
+          <li><a class="drop" href="#">DIREKTORI</a>
+            <ul>
+              <li><a href="pages/gallery.html">DIREKTORI ALUMNI</a></li>
+              <li><a href="pages/portfolio.html">PENDAFTARAN ALUMNI</a></li>
+              <li><a href="pages/full-width.html">DIREKTORI PESERTA DIDIK</a></li>
+            </ul>
+          </li>
+
+          <li><a class="drop" href="#">GALERI</a>
+            <ul>
+              <li><a href="gallery.html">GALERI FOTO</a></li>
+              <li><a href="pages/portfolio.html">VIDEO GALERI</a></li>
+            </ul>
+          </li>
+
+          <li><a href="pages/portfolio.html">HUBUNGI KAMI</a></li>
+
+        </ul>
+        <!-- ################################################################################################ -->
+      </nav>
+    </div>
+  </div>
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <div class="wrapper row3">
+    <div class="rounded">
+      <main class="container clear">
+        <!-- main body -->
+        <!-- ################################################################################################ -->
+        <div id="gallery">
+          <figure>
+            <header class="heading">GALERI SMKN 64</header>
+            <ul class="nospace clear">
+              <li class="one_quarter first"><a class="nlb" data-lightbox-gallery="gallery1"
+                  href="C:\Users\acer\Downloads\DOA.jpg" title="Display Text 1"><img class="borderedbox"
+                    src="C:\Users\acer\Downloads\DOA.jpg" alt=""></a></li>
+              <li class="one_quarter"><a class="nlb" data-lightbox-gallery="gallery1"
+                  href="C:\Users\acer\Pictures\Acer\gallery2.jpeg"
+                  title="Display Text 2"><img class="borderedbox"
+                    src="C:\Users\acer\Pictures\Acer\gallery2.jpeg" alt=""></a></li>
+              <li class="one_quarter"><a class="nlb" data-lightbox-gallery="gallery1"
+                  href="C:\Users\acer\Pictures\Acer\gallery3.jpeg"
+                  title="Display Text 3"><img class="borderedbox"
+                    src="C:\Users\acer\Pictures\Acer\gallery3.jpeg"
+                    alt=""></a></li>
+              <li class="one_quarter"><a class="nlb" data-lightbox-gallery="gallery1"
+                  href="C:\Users\acer\Pictures\Acer\gallery4.jpeg"
+                  title="Display Text 4"><img class="borderedbox"
+                    src="C:\Users\acer\Pictures\Acer\gallery4.jpeg"
+                    alt=""></a></li>
+              <li class="one_quarter first"><a class="nlb" data-lightbox-gallery="gallery1"
+                  href="C:\Users\acer\Pictures\Acer\gallery5.jpeg"
+                  title="Display Text 5"><img class="borderedbox"
+                    src="C:\Users\acer\Pictures\Acer\gallery5.jpeg"
+                    alt=""></a></li>
+              <li class="one_quarter"><a class="nlb" data-lightbox-gallery="gallery1"
+                  href="C:\Users\acer\Pictures\Acer\gallery6.jpg"
+                  title="Display Text 6"><img class="borderedbox"
+                    src="C:\Users\acer\Pictures\Acer\gallery6.jpg"
+                    alt=""></a></li>
+              <li class="one_quarter"><a class="nlb" data-lightbox-gallery="gallery1"
+                  href="C:\Users\acer\Pictures\Acer\gallery7.jpeg"
+                  title="Display Text 7"><img class="borderedbox"
+                    src="C:\Users\acer\Pictures\Acer\gallery7.jpeg"
+                    alt=""></a></li>
+              <li class="one_quarter"><a class="nlb" data-lightbox-gallery="gallery1"
+                  href="C:\Users\acer\Pictures\Acer\gallery8.jpg"
+                  title="Display Text 8"><img class="borderedbox"
+                    src="C:\Users\acer\Pictures\Acer\gallery8.jpg"
+                    alt=""></a></li>
+              <li class="one_quarter first"><a class="nlb" data-lightbox-gallery="gallery1"
+                  href="C:\Users\acer\Pictures\Acer\gallery9.jpg"
+                  title="Display Text 9"><img class="borderedbox"
+                    src="C:\Users\acer\Pictures\Acer\gallery9.jpg"
+                    alt=""></a></li>
+              <li class="one_quarter"><a class="nlb" data-lightbox-gallery="gallery1"
+                  href="C:\Users\acer\Pictures\Acer\gallery10.png"
+                  title="Display Text 10"><img class="borderedbox"
+                    src="C:\Users\acer\Pictures\Acer\gallery10.png"
+                    alt=""></a></li>
+              <li class="one_quarter"><a class="nlb" data-lightbox-gallery="gallery1"
+                  href="C:\Users\acer\Pictures\Acer\gallery11.jpeg"
+                  title="Display Text 11"><img class="borderedbox"
+                    src="C:\Users\acer\Pictures\Acer\gallery11.jpeg"
+                    alt=""></a></li>
+              <li class="one_quarter"><a class="nlb" data-lightbox-gallery="gallery1"
+                  href="C:\Users\acer\Pictures\Acer\gallery12.jpg"
+                  title="Display Text 12"><img class="borderedbox"
+                    src="C:\Users\acer\Pictures\Acer\gallery12.jpg"
+                    alt=""></a></li>
+            </ul>
+            <figcaption>INFORMASI GALERI DISINI</figcaption>
+          </figure>
+        </div>
+        <!-- ################################################################################################ -->
+        <!-- ################################################################################################ -->
+        <nav class="pagination">
+          <ul>
+            <li><a href="#">&laquo; Previous</a></li>
+            <li><a href="#">1</a></li>
+            <li><a href="#">2</a></li>
+            <li><strong>&hellip;</strong></li>
+            <li><a href="#">6</a></li>
+            <li class="current"><strong>7</strong></li>
+            <li><a href="#">8</a></li>
+            <li><a href="#">9</a></li>
+            <li><strong>&hellip;</strong></li>
+            <li><a href="#">14</a></li>
+            <li><a href="#">15</a></li>
+            <li><a href="#">Next &raquo;</a></li>
+          </ul>
+        </nav>
+        <!-- ################################################################################################ -->
+        <!-- / main body -->
+        <div class="clear"></div>
+      </main>
+    </div>
+  </div>
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <div class="wrapper row4">
+    <div class="rounded">
+      <footer id="footer" class="clear">
+        <!-- ################################################################################################ -->
+        <div class="one_third first">
+          <figure class="center"><img class="btmspace-15" src="../images/demo/worldmap.png" alt="">
+            <figcaption><a href="#">Find Us With Google Maps &raquo;</a></figcaption>
+          </figure>
+        </div>
+        <div class="one_third">
+          <address>
+            Long Educational Facility Name<br>
+            Address Line 2<br>
+            Town/City<br>
+            Postcode/Zip<br>
+            <br>
+            <i class="fa fa-phone pright-10"></i> xxxx xxxx xxxxxx<br>
+            <i class="fa fa-envelope-o pright-10"></i> <a href="#">contact@domain.com</a>
+          </address>
+        </div>
+        <div class="one_third">
+          <p class="nospace btmspace-10">Stay Up to Date With What's Happening</p>
+          <ul class="faico clear">
+            <li><a class="faicon-twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+            <li><a class="faicon-linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+            <li><a class="faicon-facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+            <li><a class="faicon-flickr" href="#"><i class="fa fa-flickr"></i></a></li>
+            <li><a class="faicon-rss" href="#"><i class="fa fa-rss"></i></a></li>
+          </ul>
+          <form class="clear" method="post" action="#">
+            <fieldset>
+              <legend>Subscribe To Our Newsletter:</legend>
+              <input type="text" value="" placeholder="Enter Email Here&hellip;">
+              <button class="fa fa-sign-in" type="submit" title="Sign Up"><em>Sign Up</em></button>
+            </fieldset>
+          </form>
+        </div>
+        <!-- ################################################################################################ -->
+      </footer>
+    </div>
+  </div>
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <div class="wrapper row5">
+    <div id="copyright" class="clear">
+      <!-- ################################################################################################ -->
+      <p class="fl_left">Copyright &copy; 2014 - All Rights Reserved - <a href="#">Domain Name</a></p>
+      <p class="fl_right">Template by <a target="_blank" href="http://www.os-templates.com/"
+          title="Free Website Templates">OS Templates</a></p>
+      <!-- ################################################################################################ -->
+    </div>
+  </div>
+  <!-- JAVASCRIPTS -->
+  <script src="../layout/scripts/jquery.min.js"></script>
+  <script src="../layout/scripts/jquery.fitvids.min.js"></script>
+  <script src="../layout/scripts/jquery.mobilemenu.js"></script>
+  <script src="../layout/scripts/nivo-lightbox/nivo-lightbox.min.js"></script>
+</body>
+
+</html>
